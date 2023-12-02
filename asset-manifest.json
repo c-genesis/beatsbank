@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/beatsbank/static/css/main.c7f64c05.css",
+    "main.js": "/beatsbank/static/js/main.89661b35.js",
+    "static/js/787.353e0365.chunk.js": "/beatsbank/static/js/787.353e0365.chunk.js",
+    "static/media/footer-bg.png": "/beatsbank/static/media/footer-bg.e461c42284fdc6601acc.png",
+    "static/media/home-prod-bg.png": "/beatsbank/static/media/home-prod-bg.f0e1c0fc8efbb8803ff5.png",
+    "static/media/homepage_header.png": "/beatsbank/static/media/homepage_header.bc43ee5b48cf27404304.png",
+    "static/media/Poppins.ttf": "/beatsbank/static/media/Poppins.35d26b781dc5fda684cc.ttf",
+    "static/media/Ephesis.ttf": "/beatsbank/static/media/Ephesis.9d76794a944a1f234087.ttf",
+    "static/media/Girl Reading and Listening to Music.png": "/beatsbank/static/media/Girl Reading and Listening to Music.db93f2e343f076a7ed0f.png",
+    "static/media/home-demo-img1.png": "/beatsbank/static/media/home-demo-img1.e0ebfa10ad63e6f6e907.png",
+    "static/media/home-demo-img2.png": "/beatsbank/static/media/home-demo-img2.f256017269dc5956400d.png",
+    "static/media/Dj Girl.png": "/beatsbank/static/media/Dj Girl.3d4603f534b03f9bb331.png",
+    "static/media/Girl Smoking Listening to Music.png": "/beatsbank/static/media/Girl Smoking Listening to Music.69d286f41836db453259.png",
+    "static/media/home-demo-img3.png": "/beatsbank/static/media/home-demo-img3.0096b6a9df2b3086f067.png",
+    "static/media/Lady Sipping Wine.png": "/beatsbank/static/media/Lady Sipping Wine.89707344addad1e9cb12.png",
+    "static/media/Azor Sitting on a Rock.png": "/beatsbank/static/media/Azor Sitting on a Rock.1d044f29b1510d0ab24e.png",
+    "static/media/logo.svg": "/beatsbank/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/beatsbank/index.html",
+    "main.c7f64c05.css.map": "/beatsbank/static/css/main.c7f64c05.css.map",
+    "main.89661b35.js.map": "/beatsbank/static/js/main.89661b35.js.map",
+    "787.353e0365.chunk.js.map": "/beatsbank/static/js/787.353e0365.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7f64c05.css",
+    "static/js/main.89661b35.js"
+  ]
+}
