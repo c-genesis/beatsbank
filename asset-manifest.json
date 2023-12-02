@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/beatsbank/static/css/main.c7f64c05.css",
-    "main.js": "/beatsbank/static/js/main.89661b35.js",
+    "main.css": "/beatsbank/static/css/main.b1f9e9c2.css",
+    "main.js": "/beatsbank/static/js/main.ea995571.js",
     "static/js/787.353e0365.chunk.js": "/beatsbank/static/js/787.353e0365.chunk.js",
+    "static/media/login-bg.png": "/beatsbank/static/media/login-bg.92962104601133134288.png",
     "static/media/footer-bg.png": "/beatsbank/static/media/footer-bg.e461c42284fdc6601acc.png",
     "static/media/home-prod-bg.png": "/beatsbank/static/media/home-prod-bg.f0e1c0fc8efbb8803ff5.png",
     "static/media/homepage_header.png": "/beatsbank/static/media/homepage_header.bc43ee5b48cf27404304.png",
@@ -18,12 +19,12 @@
     "static/media/Azor Sitting on a Rock.png": "/beatsbank/static/media/Azor Sitting on a Rock.1d044f29b1510d0ab24e.png",
     "static/media/logo.svg": "/beatsbank/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/beatsbank/index.html",
-    "main.c7f64c05.css.map": "/beatsbank/static/css/main.c7f64c05.css.map",
-    "main.89661b35.js.map": "/beatsbank/static/js/main.89661b35.js.map",
+    "main.b1f9e9c2.css.map": "/beatsbank/static/css/main.b1f9e9c2.css.map",
+    "main.ea995571.js.map": "/beatsbank/static/js/main.ea995571.js.map",
     "787.353e0365.chunk.js.map": "/beatsbank/static/js/787.353e0365.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7f64c05.css",
-    "static/js/main.89661b35.js"
+    "static/css/main.b1f9e9c2.css",
+    "static/js/main.ea995571.js"
   ]
 }
