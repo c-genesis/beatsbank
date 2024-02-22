@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/beatsbank/static/css/main.f4f0e162.css",
-    "main.js": "/beatsbank/static/js/main.269a2e7d.js",
+    "main.css": "/beatsbank/static/css/main.a3af98a3.css",
+    "main.js": "/beatsbank/static/js/main.8284c054.js",
     "static/media/contact-img-1.png": "/beatsbank/static/media/contact-img-1.9652b511077bab7f6b24.png",
     "static/media/login-bg.png": "/beatsbank/static/media/login-bg.92962104601133134288.png",
     "static/media/about-page-img.png": "/beatsbank/static/media/about-page-img.61e04743c91450c32fd5.png",
@@ -21,11 +21,11 @@
     "static/media/revicons.ttf": "/beatsbank/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/beatsbank/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/beatsbank/index.html",
-    "main.f4f0e162.css.map": "/beatsbank/static/css/main.f4f0e162.css.map",
-    "main.269a2e7d.js.map": "/beatsbank/static/js/main.269a2e7d.js.map"
+    "main.a3af98a3.css.map": "/beatsbank/static/css/main.a3af98a3.css.map",
+    "main.8284c054.js.map": "/beatsbank/static/js/main.8284c054.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4f0e162.css",
-    "static/js/main.269a2e7d.js"
+    "static/css/main.a3af98a3.css",
+    "static/js/main.8284c054.js"
   ]
 }
